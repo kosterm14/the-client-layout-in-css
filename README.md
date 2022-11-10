@@ -1,6 +1,11 @@
-> _Fork_ deze deeltaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+Voor deze opdracht moesten we lege bestanden waar alleen header, nav, main en footer elementen in zaten omzetten in een specifieke vorm. Dit moesten we doen doormiddel van grids.
 
-# Layout in CSS
+Begin:
+![image](https://user-images.githubusercontent.com/61830362/201094476-a151d73a-5a43-46fd-a389-2bfef430ed8d.png)
 
-Een oefening in document layout met CSS.
+Voorbeeld:
+![image](https://user-images.githubusercontent.com/61830362/201094537-b5b00b03-c0c7-4bcc-a02c-1728eb711947.png)
+
+Eind:
+![image](https://user-images.githubusercontent.com/61830362/201094598-57b7ecd5-54b2-4b72-be62-8f596bc027f9.png)
+
